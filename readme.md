@@ -52,5 +52,11 @@
 5. Where to place tests
 6. When to run your tests
 
-
+### Mocking Data
+- in the build Scripts folder create a file for the shape of the file
+  - `mockDataSchema.js`
+  - create another file to generate data using schema faker
+  
+- Mocked object http://bit.ly/3qEIG45
+- Copy and paste into 
 
